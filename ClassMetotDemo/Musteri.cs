@@ -11,7 +11,6 @@ namespace ClassMetotDemo
         public string SoyIsim { get; set; }
         public string Cinsiyet { get; set; }
         public int Yas { get; set; }
-        public int MyProperty { get; set; }
-        public int MyPropert3y { get; set; }
+        
     }
 }
